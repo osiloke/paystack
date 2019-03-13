@@ -16,6 +16,7 @@ var resources = {
   plan: require('./resources/plan'),
   transaction: require('./resources/transaction'),
   page: require('./resources/page'),
+  refund: require('./resources/refund'),
   subscription: require('./resources/subscription'),
   subaccount: require('./resources/subaccount'),
   settlements: require('./resources/settlements'),
